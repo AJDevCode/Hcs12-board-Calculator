@@ -7,7 +7,7 @@ We need to use the dragon board external keyboard and 7-segment LED to do this. 
  - **Multiplication**
  - **Reset Button**
  - **Enter Button**
- - **Error Check**( If an Error is detected with the ordered input, it will reset the calculator program.)
+ - **Error Check** (If an Error is detected with the ordered input, it will reset the calculator program.)
 
 
 
